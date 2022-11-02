@@ -10,7 +10,7 @@ Intro component with sign-up form
 
 ## 📕 About
 
-Practice building out a sign-up form complete with client-side validation using JavaScript.
+Practice building out a sign-up form complete with client-side validation using JavaScript.<br/>
 Frontend Mentor challenge #2
 
 ## 🔨 Tools
