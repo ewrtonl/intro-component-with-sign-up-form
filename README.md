@@ -1,5 +1,5 @@
 <h1 align='center'>
-Intro component with sign-up form
+Intro Component with Sign-up Form
 </h1>
 
 <h1 align='center'>
@@ -10,7 +10,7 @@ Intro component with sign-up form
 
 ## 📕 About
 
-Practice building out a sign-up form complete with client-side validation using JavaScript.<br/>
+Sign-up form complete with client-side validation using JavaScript.<br/>
 Frontend Mentor challenge #2
 
 ## 🔨 Tools
